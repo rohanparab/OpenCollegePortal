@@ -1,0 +1,41 @@
+.navbar {
+    margin-bottom: 0;
+    background-color: #FF3332;
+    z-index: 9999;
+    border: 0;
+    font-size: 13px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 2px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 150px;
+    box-shadow: 0px 2px 15px #000000;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #FF3332 !important;
+    background-color: #fff !important;
+
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+
+}
+
+body{
+    background-color: #E2E2E2;
+}
+
+.main{
+    padding-top: 100px;
+}
+
+.card{
+    background-color: white;
+    padding: 15px;
+    width: 100%;
+}

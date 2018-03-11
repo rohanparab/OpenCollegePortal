@@ -1,0 +1,26 @@
+body{
+    background-color: #FF6664;
+}
+.loginbox{
+    background: white;
+    padding: 20px;
+    width: 100%;
+    max-width: 800px;
+}
+
+.cellcenterparent {
+    width: 100%;
+    height: 100%;
+    display: table;
+}
+
+.cellcentercontent {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+form > p{
+    text-align: left;
+    margin-top: 10px;
+}
