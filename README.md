@@ -21,6 +21,10 @@ Done :)
 
 Open config.php and make the configration as required
 
+Default admin credentials : 
+Userid : admin
+Password : rohan
+
 ## TECHNOLOGY USED
 
 HTML
